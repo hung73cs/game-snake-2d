@@ -1,0 +1,9 @@
+D:\Python\Github\GameSnake-2D\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\Python\Github\GameSnake-2D\SnakeGame\bin\Debug\SnakeGame.exe
+D:\Python\Github\GameSnake-2D\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\Python\Github\GameSnake-2D\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\Python\Github\GameSnake-2D\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+D:\Python\Github\GameSnake-2D\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\Python\Github\GameSnake-2D\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\Python\Github\GameSnake-2D\SnakeGame\obj\Debug\SnakeGame.exe
+D:\Python\Github\GameSnake-2D\SnakeGame\obj\Debug\SnakeGame.pdb

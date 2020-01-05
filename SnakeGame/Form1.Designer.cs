@@ -42,10 +42,10 @@
             this.btnDe = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnRestartGame = new System.Windows.Forms.Button();
             this.btnPlay = new System.Windows.Forms.Button();
             this.btnPause = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.lbNotification = new System.Windows.Forms.Label();
             this.btnNewgame = new System.Windows.Forms.Button();
@@ -69,35 +69,35 @@
             this.gbCheDoChoi.BackColor = System.Drawing.Color.WhiteSmoke;
             this.gbCheDoChoi.Controls.Add(this.rabtnHangrao);
             this.gbCheDoChoi.Controls.Add(this.rabtnTudo);
-            this.gbCheDoChoi.Font = new System.Drawing.Font("VNI-Palatin", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gbCheDoChoi.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gbCheDoChoi.Location = new System.Drawing.Point(418, 54);
             this.gbCheDoChoi.Name = "gbCheDoChoi";
             this.gbCheDoChoi.Size = new System.Drawing.Size(220, 56);
             this.gbCheDoChoi.TabIndex = 3;
             this.gbCheDoChoi.TabStop = false;
-            this.gbCheDoChoi.Text = "Cheá ñoä chôi";
+            this.gbCheDoChoi.Text = "Chế độ chơi";
             // 
             // rabtnHangrao
             // 
             this.rabtnHangrao.AutoSize = true;
-            this.rabtnHangrao.Font = new System.Drawing.Font("VNI-Souvir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rabtnHangrao.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rabtnHangrao.Location = new System.Drawing.Point(101, 22);
             this.rabtnHangrao.Name = "rabtnHangrao";
-            this.rabtnHangrao.Size = new System.Drawing.Size(90, 23);
+            this.rabtnHangrao.Size = new System.Drawing.Size(90, 20);
             this.rabtnHangrao.TabIndex = 7;
-            this.rabtnHangrao.Text = "Haøng raøo";
+            this.rabtnHangrao.Text = "Hàng rào";
             this.rabtnHangrao.UseVisualStyleBackColor = true;
             // 
             // rabtnTudo
             // 
             this.rabtnTudo.AutoSize = true;
-            this.rabtnTudo.Font = new System.Drawing.Font("VNI-Souvir", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rabtnTudo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rabtnTudo.Location = new System.Drawing.Point(29, 22);
             this.rabtnTudo.Name = "rabtnTudo";
-            this.rabtnTudo.Size = new System.Drawing.Size(65, 23);
+            this.rabtnTudo.Size = new System.Drawing.Size(66, 20);
             this.rabtnTudo.TabIndex = 6;
             this.rabtnTudo.TabStop = true;
-            this.rabtnTudo.Text = "Töï do";
+            this.rabtnTudo.Text = "Tự do";
             this.rabtnTudo.UseVisualStyleBackColor = true;
             this.rabtnTudo.CheckedChanged += new System.EventHandler(this.rabtnTudo_CheckedChanged);
             // 
@@ -129,7 +129,7 @@
             this.gbLevel.Controls.Add(this.btnKho);
             this.gbLevel.Controls.Add(this.btnVua);
             this.gbLevel.Controls.Add(this.btnDe);
-            this.gbLevel.Font = new System.Drawing.Font("VNI-Palatin", 9.75F);
+            this.gbLevel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F);
             this.gbLevel.Location = new System.Drawing.Point(418, 116);
             this.gbLevel.Name = "gbLevel";
             this.gbLevel.Size = new System.Drawing.Size(220, 55);
@@ -141,36 +141,36 @@
             // btnKho
             // 
             this.btnKho.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.btnKho.Font = new System.Drawing.Font("VNI-Palatin", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnKho.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnKho.Location = new System.Drawing.Point(144, 19);
             this.btnKho.Name = "btnKho";
             this.btnKho.Size = new System.Drawing.Size(59, 30);
             this.btnKho.TabIndex = 2;
-            this.btnKho.Text = "Khoù";
+            this.btnKho.Text = "Khó";
             this.btnKho.UseVisualStyleBackColor = false;
             this.btnKho.Click += new System.EventHandler(this.btnKho_Click);
             // 
             // btnVua
             // 
             this.btnVua.BackColor = System.Drawing.Color.Lime;
-            this.btnVua.Font = new System.Drawing.Font("VNI-Palatin", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVua.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVua.Location = new System.Drawing.Point(80, 19);
             this.btnVua.Name = "btnVua";
             this.btnVua.Size = new System.Drawing.Size(59, 30);
             this.btnVua.TabIndex = 1;
-            this.btnVua.Text = "Vöøa";
+            this.btnVua.Text = "Vừa";
             this.btnVua.UseVisualStyleBackColor = false;
             this.btnVua.Click += new System.EventHandler(this.btnVua_Click);
             // 
             // btnDe
             // 
             this.btnDe.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.btnDe.Font = new System.Drawing.Font("VNI-Palatin", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDe.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDe.Location = new System.Drawing.Point(15, 19);
             this.btnDe.Name = "btnDe";
             this.btnDe.Size = new System.Drawing.Size(59, 30);
             this.btnDe.TabIndex = 0;
-            this.btnDe.Text = "Deã";
+            this.btnDe.Text = "Dễ";
             this.btnDe.UseVisualStyleBackColor = false;
             this.btnDe.Click += new System.EventHandler(this.btnDe_Click);
             // 
@@ -191,16 +191,6 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(200, 34);
             this.panel3.TabIndex = 1;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::SnakeGame.Properties.Resources.snakechot1;
-            this.pictureBox1.Location = new System.Drawing.Point(538, 177);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 185);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 12;
-            this.pictureBox1.TabStop = false;
             // 
             // btnRestartGame
             // 
@@ -242,6 +232,16 @@
             this.btnPause.TabIndex = 8;
             this.btnPause.UseVisualStyleBackColor = true;
             this.btnPause.Click += new System.EventHandler(this.btnPause_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::SnakeGame.Properties.Resources.snakechot1;
+            this.pictureBox1.Location = new System.Drawing.Point(538, 177);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(100, 185);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 12;
+            this.pictureBox1.TabStop = false;
             // 
             // panel1
             // 
